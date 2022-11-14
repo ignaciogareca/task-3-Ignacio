@@ -15,9 +15,21 @@ main{
     width: 10rem;
     padding-left: 1rem;
 }
+.cartita{
+    width: 18rem;
+}
+.check{
+    text-decoration: none;
+    color: black !important;
+    background-color: rgb(255, 255, 255) !important;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 .5rem;
+    border-color: black !important;
+}
 header>nav{
     height: 7rem;
-    background-color: rgb(197, 197, 197);
+    background-color: rgb(211, 209, 209);
     border-bottom: 1px solid black;
 }
 .button{
